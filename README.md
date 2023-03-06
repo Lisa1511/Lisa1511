@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lisa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Student in computer science in IUT.</h3>
+
+- 🌱 I’m currently learning **API REST, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
